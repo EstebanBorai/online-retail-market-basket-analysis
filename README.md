@@ -1,13 +1,21 @@
 <div>
-  <h1 align="center">Docker Machine Learning</h1>
-  <h4 align="center">A template for Machine Learning projects with Docker</h4>
+  <h1 align="center">Online Retail Market Basket Analysis</h1>
+  <h4 align="center">Performing Market Basket Analysis on Online Retail Data</h4>
 </div>
 
 ## Motivation
 
-Spin up Machine Learning projects with ease, avoiding a virtual environment
-setup by using Docker, extending compatibility for collaboration by having
-a operative system agnostic environment.
+Perform Market Basket Analysis on a dataset form "UC Irvine Machine Learning Repository"
+related to Online Retail.
+
+This comes as exercise from the book "Python for Data Science" by Yuli Vasiliev.
+
+## Dataset Source
+
+As mentioned earlier, the databaset is obtained from "UC Irvine Machine Learning Repository"
+direct download available in this link:
+
+- https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx
 
 ## Run Locally
 
